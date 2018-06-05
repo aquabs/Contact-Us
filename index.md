@@ -10,9 +10,9 @@
     <div class="row">
       <h1 class="col-sm-4">Camas Clubs</h1>
       <nav class="col-sm-8 text-right">
+        <a href="https://aquabs.github.io/impactProject/"<p>home</p></a>
         <a href="https://aquabs.github.io/aboutThisSite/"><p>about this site</p></a>
-        <p>news</p>
-        <p>contact us</p>
+        <a href="http://chs.camas.wednet.edu/"><p>news</p></a>
       </nav>
     </div>
   </header>
